@@ -6,11 +6,14 @@
 
 	let id = 0;
 	let todos: Todo[] = [
-		{id: id++, todo: "Value 1", done: false},
-		{id: id++, todo: "Value 2", done: false},
-		{id: id++, todo: "Value 3", done: false},
-		{id: id++, todo: "Value 4", done: true},
-		{id: id++, todo: "Value 5", done: true}
+		{id: id++, todo: "Try Framer Motion", done: false},
+		{id: id++, todo: "Try React Spring", done: false},
+		{id: id++, todo: "Learn SvelteKit other Svelte stuff", done: false},
+		{id: id++, todo: "Learn Koa.js", done: false},
+		{id: id++, todo: "Learn NestJS", done: false},
+		{id: id++, todo: "Dominate the world", done: false},
+		{id: id++, todo: "Learn Basic Svelte", done: true},
+		{id: id++, todo: "ซุก", done: true}
 	];
 
 	let ref: null | HTMLInputElement = null;
