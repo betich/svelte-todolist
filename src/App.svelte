@@ -8,7 +8,7 @@
 	let todos: Todo[] = [
 		{id: id++, todo: "Try Framer Motion", done: false},
 		{id: id++, todo: "Try React Spring", done: false},
-		{id: id++, todo: "Learn SvelteKit other Svelte stuff", done: false},
+		{id: id++, todo: "Learn SvelteKit and other Svelte stuff", done: false},
 		{id: id++, todo: "Learn Koa.js", done: false},
 		{id: id++, todo: "Learn NestJS", done: false},
 		{id: id++, todo: "Dominate the world", done: false},
